@@ -1,0 +1,6 @@
+{
+  "name": "Zion Lyrics",
+  "description": "“Sing to the LORD a new song.” — Psalm 98:1. Sacred Zion songs lyrics, A-Z song index, and hymnal reading engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
